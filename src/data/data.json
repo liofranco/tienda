@@ -1,0 +1,2226 @@
+[
+  {
+    "id": "AD_FY9042-1",
+    "imagen": "/img/AD_FY9042-1.jpg",
+    "nombre": "adidas Forum Bold",
+    "precio": 13999,
+    "genero": "mujer",
+    "origen": "importado",
+    "marca": "adidas",
+    "talles": [
+      {
+        "numero": 37,
+        "stock": true
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": false
+      },
+      {
+        "numero": 40,
+        "stock": true
+      },
+      {
+        "numero": 41,
+        "stock": false
+      },
+      {
+        "numero": 42,
+        "stock": true
+      }
+    ],
+    "destacado": false,
+    "relevancia": 23,
+    "descuento": 2000,
+    "descripcion": "Las zapatillas Adidas Forum Bold están confeccionadas en cuero sintético y suela de goma para un mayor agarre sobre la superficie. Su diseño es 100% sofisticado e inspirado en la escena breakdance de Shangai. Usalas todo el día, las calles de tu ciudad las estaban esperando."
+  },
+  {
+    "id": "AD_FY5117-1",
+    "imagen": "/img/AD_FY5117-1.jpg",
+    "nombre": "adidas Forum Bold",
+    "precio": 13999,
+    "genero": "mujer",
+    "origen": "nacional",
+    "marca": "adidas",
+    "talles": [
+      {
+        "numero": 37,
+        "stock": false
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": true
+      },
+      {
+        "numero": 40,
+        "stock": true
+      },
+      {
+        "numero": 41,
+        "stock": true
+      },
+      {
+        "numero": 42,
+        "stock": true
+      }
+    ],
+    "destacado": false,
+    "relevancia": 51,
+    "descuento": 0,
+    "descripcion": "Las zapatillas Adidas Forum Bold están confeccionadas en cuero sintético y suela de goma para un mayor agarre sobre la superficie. Su diseño se inspira 100% en la belleza de la cultura hip-hop y la escena breakdance de Shangai. Usalas todo el día, las calles de tu ciudad las estaban esperando."
+  },
+  {
+    "id": "AD_G55780-1",
+    "imagen": "/img/AD_G55780-1.jpg",
+    "nombre": "adidas ZX 700 HD",
+    "precio": 13999,
+    "genero": "hombre",
+    "origen": "importado",
+    "marca": "adidas",
+    "talles": [
+      {
+        "numero": 37,
+        "stock": true
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": false
+      },
+      {
+        "numero": 40,
+        "stock": false
+      },
+      {
+        "numero": 41,
+        "stock": true
+      },
+      {
+        "numero": 42,
+        "stock": true
+      }
+    ],
+    "destacado": false,
+    "relevancia": 52,
+    "descuento": 2000,
+    "descripcion": "Las zapatillas adidas ZX 700 HD están confeccionadas en su exterior de malla con refuerzos de gamuza y TPU. Su diseño es un restyling de un modelo clásico de la marca con un toque futurista que las vuelven ideales para salir a recorrer la ciudad. La mediasuela de EVA y suela de caucho proporcionan amortiguación, comodidad y tracción sobre la superficie. "
+  },
+  {
+    "id": "AD_EF1994-1",
+    "imagen": "/img/AD_EF1994-1.jpg",
+    "nombre": "adidas Falcon Zip",
+    "precio": 15999,
+    "genero": "mujer",
+    "origen": "importado",
+    "marca": "adidas",
+    "talles": [
+      {
+        "numero": 34,
+        "stock": true
+      },
+      {
+        "numero": 35,
+        "stock": true
+      },
+      {
+        "numero": 36,
+        "stock": false
+      },
+      {
+        "numero": 37,
+        "stock": true
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": true
+      }
+    ],
+    "destacado": false,
+    "relevancia": 27,
+    "descuento": 0,
+    "descripcion": "Las zapatillas Adidas Falcon Zip te traen el espíritu rebelde de la música y la moda de los 90 con éste diseño llamativo y lleno de color. Las zapatillas capturan la esencia de esa época con formas onduladas y audaces. Su lado moderno está en sus cordones removibles y un cierre que te permiten elegir tu look."
+  },
+  {
+    "id": "AD_EE5915-1",
+    "imagen": "/img/AD_EE5915-1.jpg",
+    "nombre": "adidas Nite Jogger",
+    "precio": 18999,
+    "genero": "mujer",
+    "origen": "importado",
+    "marca": "adidas",
+    "talles": [
+      {
+        "numero": 34,
+        "stock": true
+      },
+      {
+        "numero": 35,
+        "stock": false
+      },
+      {
+        "numero": 36,
+        "stock": false
+      },
+      {
+        "numero": 37,
+        "stock": true
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": true
+      }
+    ],
+    "destacado": false,
+    "relevancia": 28,
+    "descuento": 0,
+    "descripcion": "Las Zapatillas Adidas Nite Jogger salieron al mundo por primera vez en 1980, época en que el running aficionado comenzó a popularizarse. Estas zapatillas reviven el estilo retro con un exterior de nylon y malla con detalles reflectantes que llaman la atención. Amortiguación y un diseño agresivo para que el asfalto tiemble en cada pisada."
+  },
+  {
+    "id": "AD_EF5014-1",
+    "imagen": "/img/AD_EF5014-1.jpg",
+    "nombre": "adidas Sleek Super",
+    "precio": 14499,
+    "genero": "mujer",
+    "origen": "importado",
+    "marca": "adidas",
+    "talles": [
+      {
+        "numero": 34,
+        "stock": false
+      },
+      {
+        "numero": 35,
+        "stock": true
+      },
+      {
+        "numero": 36,
+        "stock": false
+      },
+      {
+        "numero": 37,
+        "stock": true
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": false
+      }
+    ],
+    "destacado": false,
+    "relevancia": 21,
+    "descuento": 2000,
+    "descripcion": "Si tu estilo es actual y moderno, las Zapatillas Adidas Sleek Super son perfectas gracias a su modelo vintage de los 70, su capellada en cuero te hará ver impecable a donde vayas, su suela con plataforma te da unos centímetros de más y estiliza tus piernas. Además, su suela en goma te da amortiguación y mejor tracción en cada pisada."
+  },
+  {
+    "id": "AD_FZ3439-1",
+    "imagen": "/img/AD_FZ3439-1.jpg",
+    "nombre": "adidas Multix",
+    "precio": 10999,
+    "genero": "hombre",
+    "origen": "nacional",
+    "marca": "adidas",
+    "talles": [
+      {
+        "numero": 37,
+        "stock": false
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": true
+      },
+      {
+        "numero": 40,
+        "stock": false
+      },
+      {
+        "numero": 41,
+        "stock": true
+      },
+      {
+        "numero": 42,
+        "stock": true
+      }
+    ],
+    "destacado": true,
+    "relevancia": 5,
+    "descuento": 0,
+    "descripcion": "Las zapatillas Adidas Multix confeccionadas en exterior deportivo de malla mantiene tus pies cómodos sin importar lo que te depare del día. La suela de caucho ofrece el agarre que necesitás, mientras que el diseño deportivo con colores impactantes te dan el estilo ideal para la vida urbana."
+  },
+  {
+    "id": "AD_FV9996-1",
+    "imagen": "/img/AD_FV9996-1.jpg",
+    "nombre": "adidas Zx 2K Boost",
+    "precio": 18999,
+    "genero": "hombre",
+    "origen": "importado",
+    "marca": "adidas",
+    "talles": [
+      {
+        "numero": 37,
+        "stock": true
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": true
+      },
+      {
+        "numero": 40,
+        "stock": true
+      },
+      {
+        "numero": 41,
+        "stock": true
+      },
+      {
+        "numero": 42,
+        "stock": false
+      }
+    ],
+    "destacado": false,
+    "relevancia": 35,
+    "descuento": 3000,
+    "descripcion": ""
+  },
+  {
+    "id": "AD_EH1197-1",
+    "imagen": "/img/AD_EH1197-1.jpg",
+    "nombre": "adidas Ozweego",
+    "precio": 16999,
+    "genero": "mujer",
+    "origen": "importado",
+    "marca": "adidas",
+    "talles": [
+      {
+        "numero": 34,
+        "stock": true
+      },
+      {
+        "numero": 35,
+        "stock": true
+      },
+      {
+        "numero": 36,
+        "stock": true
+      },
+      {
+        "numero": 37,
+        "stock": true
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": true
+      }
+    ],
+    "destacado": false,
+    "relevancia": 10,
+    "descuento": 0,
+    "descripcion": "Para vos que tenés un gusto clásico de los 90´s y 2000 y a la vez urbano llegan las Zapatillas Adidas Ozweego la mezcla de textil y cuero sintético más refuerzo de TPU te da la durabilidad necesaria para que los uses todo el tiempo, la media suela EVA con Adriprene y Adriprene + te da mayor amortiguación y pisadas con mejor reacción. Además su look minimalista te dará un estilo elegante e informal para lucir en cualquier lugar."
+  },
+  {
+    "id": "AD_FX7049-1",
+    "imagen": "/img/AD_FX7049-1.jpg",
+    "nombre": "adidas Zx 2K Boost",
+    "precio": 18999,
+    "genero": "mujer",
+    "origen": "importado",
+    "marca": "adidas",
+    "talles": [
+      {
+        "numero": 34,
+        "stock": false
+      },
+      {
+        "numero": 35,
+        "stock": false
+      },
+      {
+        "numero": 36,
+        "stock": true
+      },
+      {
+        "numero": 37,
+        "stock": true
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": true
+      }
+    ],
+    "destacado": false,
+    "relevancia": 41,
+    "descuento": 0,
+    "descripcion": "Las zapatillas Adidas ZX 2K Boost están confeccionadas en su exterior de malla con refuerzos de TPU y de forro interno textil para una sensación más cómoda y estable. La inyección de Boost en la mediasuela son el gran acierto de estas zapatillas para que te sientas en el aire mientras caminas todo el día. Su diseño con las clásicas tiras laterales y mix de tonos la vuelven más deportiva para tus looks urbanos. "
+  },
+  {
+    "id": "AD_FZ3446-1",
+    "imagen": "/img/AD_FZ3446-1.jpg",
+    "nombre": "adidas Multix",
+    "precio": 10999,
+    "genero": "hombre",
+    "origen": "nacional",
+    "marca": "adidas",
+    "talles": [
+      {
+        "numero": 37,
+        "stock": false
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": true
+      },
+      {
+        "numero": 40,
+        "stock": true
+      },
+      {
+        "numero": 41,
+        "stock": true
+      },
+      {
+        "numero": 42,
+        "stock": false
+      }
+    ],
+    "destacado": false,
+    "relevancia": 33,
+    "descuento": 2000,
+    "descripcion": "Las zapatillas Adidas Multix confeccionadas en exterior deportivo de malla mantiene tus pies cómodos sin importar lo que te depare del día. La suela de caucho ofrece el agarre que necesitás, mientras que el diseño deportivo con colores impactantes te dan el estilo ideal para la vida urbana."
+  },
+  {
+    "id": "AD_EH3519-1",
+    "imagen": "/img/AD_EH3519-1.jpg",
+    "nombre": "adidas Falcon",
+    "precio": 15999,
+    "genero": "mujer",
+    "origen": "nacional",
+    "marca": "adidas",
+    "talles": [
+      {
+        "numero": 34,
+        "stock": true
+      },
+      {
+        "numero": 35,
+        "stock": true
+      },
+      {
+        "numero": 36,
+        "stock": true
+      },
+      {
+        "numero": 37,
+        "stock": true
+      },
+      {
+        "numero": 38,
+        "stock": false
+      },
+      {
+        "numero": 39,
+        "stock": true
+      }
+    ],
+    "destacado": false,
+    "relevancia": 42,
+    "descuento": 0,
+    "descripcion": "Las Zapatillas Adidas Falcon son ideales para corredores habituales y para vos que llevas un estilo de vida agitado y necesitás lo mejor para que te rinda el tiempo. Su malla transpirable te da comodidad y buen ajuste, su diseño del talón con soporte proporciona al talón de Aquiles un rango de movimiento dándote mayor amortiguación y firmeza en cada pisada con el estilo característica de la marca."
+  },
+  {
+    "id": "AD_G27637-1",
+    "imagen": "/img/AD_G27637-1.jpg",
+    "nombre": "adidas U_Path Run",
+    "precio": 11999,
+    "genero": "hombre",
+    "origen": "nacional",
+    "marca": "adidas",
+    "talles": [
+      {
+        "numero": 37,
+        "stock": true
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": true
+      },
+      {
+        "numero": 40,
+        "stock": true
+      },
+      {
+        "numero": 41,
+        "stock": true
+      },
+      {
+        "numero": 42,
+        "stock": true
+      }
+    ],
+    "destacado": false,
+    "relevancia": 31,
+    "descuento": 0,
+    "descripcion": "Las zapatillas Adidas U_Path Run lucen un diseño urbano inspirado en el calzado de running vintage. El refuerzo con tirador en el talón le aporta mayor estabilidad y la mediasuela de EVA te permite correr y saltar cómodamente. Disfrutá de un calzado suave, liviano y transpirable para todos tus días."
+  },
+  {
+    "id": "AD_FX7058-1",
+    "imagen": "/img/AD_FX7058-1.jpg",
+    "nombre": "adidas Zx 2K Boost",
+    "precio": 18999,
+    "genero": "mujer",
+    "origen": "importado",
+    "marca": "adidas",
+    "talles": [
+      {
+        "numero": 34,
+        "stock": true
+      },
+      {
+        "numero": 35,
+        "stock": true
+      },
+      {
+        "numero": 36,
+        "stock": true
+      },
+      {
+        "numero": 37,
+        "stock": false
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": false
+      }
+    ],
+    "destacado": false,
+    "relevancia": 16,
+    "descuento": 0,
+    "descripcion": "Las zapatillas Adidas ZX 2K Boost están confeccionadas en su exterior de malla con refuerzos de TPU y de forro interno textil para una sensación más cómoda y estable. La inyección de Boost en la mediasuela son el gran acierto de estas zapatillas para que te sientas en el aire mientras caminas todo el día. Su diseño con las clásicas tiras laterales y mix de tonos la vuelven más deportiva para tus looks urbanos."
+  },
+  {
+    "id": "AD_FX8105-1",
+    "imagen": "/img/AD_FX8105-1.jpg",
+    "nombre": "adidas SL Andridge",
+    "precio": 13999,
+    "genero": "mujer",
+    "origen": "nacional",
+    "marca": "adidas",
+    "talles": [
+      {
+        "numero": 34,
+        "stock": true
+      },
+      {
+        "numero": 35,
+        "stock": false
+      },
+      {
+        "numero": 36,
+        "stock": true
+      },
+      {
+        "numero": 37,
+        "stock": true
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": false
+      }
+    ],
+    "destacado": false,
+    "relevancia": 50,
+    "descuento": 0,
+    "descripcion": "Las zapatillas Adidas SL Andridge se inspiran en modelos running de la década del 70 pero con un rediseño de toques femeninos y proporciones modernas. Confeccionadas con nylon satinado, cuero y gamuza, poseen además una mediasuela brillante con acabado perlado. Su suela con plataforma te proporciona un toque extra de altura y un estilo a la moda."
+  },
+  {
+    "id": "NI_AH6789-107-1",
+    "imagen": "/img/NI_AH6789-107-1.jpg",
+    "nombre": "Nike Air Max 270",
+    "precio": 24999,
+    "genero": "mujer",
+    "origen": "importado",
+    "marca": "Nike",
+    "talles": [
+      {
+        "numero": 34,
+        "stock": true
+      },
+      {
+        "numero": 35,
+        "stock": true
+      },
+      {
+        "numero": 36,
+        "stock": true
+      },
+      {
+        "numero": 37,
+        "stock": true
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": false
+      }
+    ],
+    "destacado": false,
+    "relevancia": 29,
+    "descuento": 0,
+    "descripcion": "Con las Zapatillas Nike Air Max 270 inicia tu jornada de ejercicio con comodidad y estilo, la espuma suave le dará comodidad al pie, su cámara de aire con una estética llamativa y visible te dará una mejor amortiguación en cada paso y mejor tracción cuando corrés o caminás."
+  },
+  {
+    "id": "NI_CD0479-200-1",
+    "imagen": "/img/NI_CD0479-200-1.jpg",
+    "nombre": "Nike Air Max Dia Se",
+    "precio": 15999,
+    "genero": "mujer",
+    "origen": "nacional",
+    "marca": "Nike",
+    "talles": [
+      {
+        "numero": 34,
+        "stock": true
+      },
+      {
+        "numero": 35,
+        "stock": true
+      },
+      {
+        "numero": 36,
+        "stock": true
+      },
+      {
+        "numero": 37,
+        "stock": false
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": true
+      }
+    ],
+    "destacado": false,
+    "relevancia": 44,
+    "descuento": 0,
+    "descripcion": "Lucí con estilo en tus entrenamientos o en tu día a día gracias a las Zapatillas Nike Air Max Dia SE, su tecnología Air Max te brinda estabilidad en el pie y amortiguación en cada pisada que te harán sentir más seguro y confiado en cualquier momento que las lleves puestas."
+  },
+  {
+    "id": "NI_AH6789-603-1",
+    "imagen": "/img/NI_AH6789-603-1.jpg",
+    "nombre": "Nike Air Max 270",
+    "precio": 24999,
+    "genero": "mujer",
+    "origen": "importado",
+    "marca": "Nike",
+    "talles": [
+      {
+        "numero": 34,
+        "stock": true
+      },
+      {
+        "numero": 35,
+        "stock": false
+      },
+      {
+        "numero": 36,
+        "stock": true
+      },
+      {
+        "numero": 37,
+        "stock": true
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": true
+      }
+    ],
+    "destacado": false,
+    "relevancia": 53,
+    "descuento": 3000,
+    "descripcion": "Las zapatillas Nike Air Max 270 están inspiradas en dos íconos Air Max, las 180 y 93. Su diseño incorpora en el talón la unidad Air más grande para proporcionarte una pisada super suave con un tacto tan increíble como su look. Amortiguación y ventilación donde más lo necesitas, eso te brindan las Air Max 270."
+  },
+  {
+    "id": "NI_CW4286-100-1",
+    "imagen": "/img/NI_CW4286-100-1.jpg",
+    "nombre": "Nike Air Max 2090",
+    "precio": 14999,
+    "genero": "mujer",
+    "origen": "nacional",
+    "marca": "Nike",
+    "talles": [
+      {
+        "numero": 34,
+        "stock": false
+      },
+      {
+        "numero": 35,
+        "stock": false
+      },
+      {
+        "numero": 36,
+        "stock": true
+      },
+      {
+        "numero": 37,
+        "stock": true
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": true
+      }
+    ],
+    "destacado": false,
+    "relevancia": 24,
+    "descuento": 2000,
+    "descripcion": "Las zapatillas Nike Air Max 2090 celebran el 30° aniversario del lanzamiento de las Air Max 90. Su confección con malla ligera y transpirable para mantener los pies cómodos, mientras que la unidad Aix Max proporciona una amortiguación más visible desde el costado en relación al modelo original de aquellos años. La lengüeta con orificio abierto se combina con la cierre ajustable de agarre del talón para que puedas ponerte y quitarte el calzado con facilidad."
+  },
+  {
+    "id": "NI_BV0415-002-1",
+    "imagen": "/img/NI_BV0415-002-1.jpg",
+    "nombre": "Nike Epic Phantom React",
+    "precio": 24999,
+    "genero": "mujer",
+    "origen": "importado",
+    "marca": "Nike",
+    "talles": [
+      {
+        "numero": 34,
+        "stock": true
+      },
+      {
+        "numero": 35,
+        "stock": true
+      },
+      {
+        "numero": 36,
+        "stock": false
+      },
+      {
+        "numero": 37,
+        "stock": false
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": false
+      }
+    ],
+    "destacado": false,
+    "relevancia": 45,
+    "descuento": 0,
+    "descripcion": "Al no llevar cordones, las Nike Epic Phantom React Flyknit, suaves al tacto, permiten salir corriendo en un abrir y cerrar de ojos. El ajuste ceñido y seguro y la parte superior Flyknit transpirable te harán sentir como si el fantasma desapareciese mientras corres."
+  },
+  {
+    "id": "NI_CU8591-001-1",
+    "imagen": "/img/NI_CU8591-001-1.jpg",
+    "nombre": "Nike Air Force 1 Shadow",
+    "precio": 19499,
+    "genero": "mujer",
+    "origen": "importado",
+    "marca": "Nike",
+    "talles": [
+      {
+        "numero": 34,
+        "stock": true
+      },
+      {
+        "numero": 35,
+        "stock": true
+      },
+      {
+        "numero": 36,
+        "stock": true
+      },
+      {
+        "numero": 37,
+        "stock": true
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": true
+      }
+    ],
+    "destacado": false,
+    "relevancia": 7,
+    "descuento": 3000,
+    "descripcion": "Si sos de las mujeres que van al frente y aman el estilo vanguardista, las Zapatillas Nike Air Force 1 Shadow son para vos! Confeccionadas en un mix de materiales low, su capellada de cuero y gamuza y si suela de goma, hacen de estas zapatillas el calzado perfecto para completar tus outfits más cancheros"
+  },
+  {
+    "id": "NI_DD8959-100-1",
+    "imagen": "/img/NI_DD8959-100-1.jpg",
+    "nombre": "Nike Air Force 1 '07",
+    "precio": 15999,
+    "genero": "mujer",
+    "origen": "importado",
+    "marca": "Nike",
+    "talles": [
+      {
+        "numero": 34,
+        "stock": true
+      },
+      {
+        "numero": 35,
+        "stock": true
+      },
+      {
+        "numero": 36,
+        "stock": false
+      },
+      {
+        "numero": 37,
+        "stock": false
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": true
+      }
+    ],
+    "destacado": false,
+    "relevancia": 36,
+    "descuento": 0,
+    "descripcion": "Hechas para personas alegres que se atreven a todo y que no pasan desapercibidos en cualquier lugar, las Zapatillas Nike Air Force 1 07 con capas de cuero sintético, te ofrecen un look urbano y moderno lleno de texturas y ritmo. Su entre suela ancha y suela ranurada te ofrecen ligereza y amortiguación en cualquier superficie dándote toda la onda característica de la marca."
+  },
+  {
+    "id": "NI_CZ0339-001-1",
+    "imagen": "/img/NI_CZ0339-001-1.jpg",
+    "nombre": "Nike Air Force 1 '07 Lv8",
+    "precio": 17999,
+    "genero": "hombre",
+    "origen": "importado",
+    "marca": "Nike",
+    "talles": [
+      {
+        "numero": 37,
+        "stock": true
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": false
+      },
+      {
+        "numero": 40,
+        "stock": true
+      },
+      {
+        "numero": 41,
+        "stock": true
+      },
+      {
+        "numero": 42,
+        "stock": false
+      }
+    ],
+    "destacado": false,
+    "relevancia": 25,
+    "descuento": 0,
+    "descripcion": ""
+  },
+  {
+    "id": "NI_DC9845-100-1",
+    "imagen": "/img/NI_DC9845-100-1.jpg",
+    "nombre": "Nike Air Max 90",
+    "precio": 19999,
+    "genero": "hombre",
+    "origen": "importado",
+    "marca": "Nike",
+    "talles": [
+      {
+        "numero": 37,
+        "stock": true
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": true
+      },
+      {
+        "numero": 40,
+        "stock": false
+      },
+      {
+        "numero": 41,
+        "stock": true
+      },
+      {
+        "numero": 42,
+        "stock": true
+      }
+    ],
+    "destacado": false,
+    "relevancia": 11,
+    "descuento": 0,
+    "descripcion": ""
+  },
+  {
+    "id": "NI_CT1990-100-1",
+    "imagen": "/img/NI_CT1990-100-1.jpg",
+    "nombre": "Nike Air Force 1 '07 Lx",
+    "precio": 19499,
+    "genero": "mujer",
+    "origen": "importado",
+    "marca": "Nike",
+    "talles": [
+      {
+        "numero": 34,
+        "stock": true
+      },
+      {
+        "numero": 35,
+        "stock": false
+      },
+      {
+        "numero": 36,
+        "stock": false
+      },
+      {
+        "numero": 37,
+        "stock": true
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": true
+      }
+    ],
+    "destacado": false,
+    "relevancia": 48,
+    "descuento": 0,
+    "descripcion": "Las Zapatillas Nike Air Force 1 '07 Lx celebran el empoderamiento femenino y la hermandad que pasa a través de los deportes. Cuentan con superposiciones de cuero cosido en la parte superior que añaden estilo, durabilidad y apoyo. Con amortiguación, comodidad ligera y una silueta de corte bajo que suman un aspecto limpio y aerodinámico."
+  },
+  {
+    "id": "NI_AR5339-600-1",
+    "imagen": "/img/NI_AR5339-600-1.jpg",
+    "nombre": "Nike Air Force 1 Sage",
+    "precio": 17999,
+    "genero": "mujer",
+    "origen": "importado",
+    "marca": "Nike",
+    "talles": [
+      {
+        "numero": 34,
+        "stock": true
+      },
+      {
+        "numero": 35,
+        "stock": true
+      },
+      {
+        "numero": 36,
+        "stock": true
+      },
+      {
+        "numero": 37,
+        "stock": true
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": true
+      }
+    ],
+    "destacado": false,
+    "relevancia": 34,
+    "descuento": 0,
+    "descripcion": "Las zapatillas Nike Air Force 1 Sage irrumpen con un diseño que trae lo mejor de modelos ochentosos de la marca con la tecnología Air Max, que te permite usarla durante todo el día con el máximo confort por sus mejoras en amortiguación."
+  },
+  {
+    "id": "NI_AT6175-100-1",
+    "imagen": "/img/NI_AT6175-100-1.jpg",
+    "nombre": "Nike Air Max 200",
+    "precio": 19999,
+    "genero": "mujer",
+    "origen": "importado",
+    "marca": "Nike",
+    "talles": [
+      {
+        "numero": 34,
+        "stock": true
+      },
+      {
+        "numero": 35,
+        "stock": true
+      },
+      {
+        "numero": 36,
+        "stock": true
+      },
+      {
+        "numero": 37,
+        "stock": false
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": false
+      }
+    ],
+    "destacado": false,
+    "relevancia": 37,
+    "descuento": 2000,
+    "descripcion": "Inspiradas en los patrones de energía que irradian de la tierra, como el flujo de lava y las ondas rítmicas del océano, las Nike Air Max 200 cuentan con la unidad Max Air más grande hasta la fecha. Con una amortiguación excepcional y detalles modernos, esta zapatilla irradia una sensación de frescor."
+  },
+  {
+    "id": "NI_AQ2568-003-1",
+    "imagen": "/img/NI_AQ2568-003-1.jpg",
+    "nombre": "Nike Air Max 200",
+    "precio": 19999,
+    "genero": "hombre",
+    "origen": "importado",
+    "marca": "Nike",
+    "talles": [
+      {
+        "numero": 37,
+        "stock": false
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": true
+      },
+      {
+        "numero": 40,
+        "stock": false
+      },
+      {
+        "numero": 41,
+        "stock": true
+      },
+      {
+        "numero": 42,
+        "stock": true
+      }
+    ],
+    "destacado": false,
+    "relevancia": 22,
+    "descuento": 0,
+    "descripcion": "Las Nike Air Max 200 tienen aún más aire que las unidades Max Air anteriores. Son visibles desde el costado para una comodidad que puedas ver y sentir. Las líneas onduladas están inspiradas en el flujo de lava y las ondas rítmicas del océano. Los cordones elásticos facilitan la colocación y remoción del calzado."
+  },
+  {
+    "id": "NI_CU8591-104-1",
+    "imagen": "/img/NI_CU8591-104-1.jpg",
+    "nombre": "Nike Air Force 1 Shadow",
+    "precio": 19499,
+    "genero": "mujer",
+    "origen": "importado",
+    "marca": "Nike",
+    "talles": [
+      {
+        "numero": 34,
+        "stock": true
+      },
+      {
+        "numero": 35,
+        "stock": true
+      },
+      {
+        "numero": 36,
+        "stock": true
+      },
+      {
+        "numero": 37,
+        "stock": true
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": true
+      }
+    ],
+    "destacado": false,
+    "relevancia": 12,
+    "descuento": 0,
+    "descripcion": "Si sos de las mujeres que van al frente y aman el estilo vanguardista, las Zapatillas Nike Air Force 1 Shadow son para vos! Confeccionadas en un mix de materiales low, su capellada de cuero y gamuza y si suela de goma, hacen de estas zapatillas el calzado perfecto para completar tus outfits más cancheros."
+  },
+  {
+    "id": "NI_CZ1524-100-1",
+    "imagen": "/img/NI_CZ1524-100-1.jpg",
+    "nombre": "Nike Air Force 1 Crater",
+    "precio": 19499,
+    "genero": "hombre",
+    "origen": "importado",
+    "marca": "Nike",
+    "talles": [
+      {
+        "numero": 37,
+        "stock": true
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": true
+      },
+      {
+        "numero": 40,
+        "stock": true
+      },
+      {
+        "numero": 41,
+        "stock": true
+      },
+      {
+        "numero": 42,
+        "stock": true
+      }
+    ],
+    "destacado": false,
+    "relevancia": 13,
+    "descuento": 3000,
+    "descripcion": ""
+  },
+  {
+    "id": "NI_CZ1524-002-1",
+    "imagen": "/img/NI_CZ1524-002-1.jpg",
+    "nombre": "Nike Air Force 1 Crater",
+    "precio": 19499,
+    "genero": "hombre",
+    "origen": "importado",
+    "marca": "Nike",
+    "talles": [
+      {
+        "numero": 37,
+        "stock": true
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": true
+      },
+      {
+        "numero": 40,
+        "stock": true
+      },
+      {
+        "numero": 41,
+        "stock": true
+      },
+      {
+        "numero": 42,
+        "stock": false
+      }
+    ],
+    "destacado": false,
+    "relevancia": 20,
+    "descuento": 0,
+    "descripcion": ""
+  },
+  {
+    "id": "NI_CD4366-001-1",
+    "imagen": "/img/NI_CD4366-001-1.jpg",
+    "nombre": "Nike Air Force 1 React",
+    "precio": 20999,
+    "genero": "hombre",
+    "origen": "importado",
+    "marca": "Nike",
+    "talles": [
+      {
+        "numero": 37,
+        "stock": true
+      },
+      {
+        "numero": 38,
+        "stock": false
+      },
+      {
+        "numero": 39,
+        "stock": true
+      },
+      {
+        "numero": 40,
+        "stock": true
+      },
+      {
+        "numero": 41,
+        "stock": false
+      },
+      {
+        "numero": 42,
+        "stock": true
+      }
+    ],
+    "destacado": false,
+    "relevancia": 26,
+    "descuento": 0,
+    "descripcion": "Las zapatillas Nike Air Force 1 React están confeccionadas en su exterior con cuero y malla para una mayor durabilidad y resistencia. Los orificios que contiene proporcionan una óptima frescura y su ajuste con sistema de cordones te brindan el control a tu medida. La suela de goma con espuma Nike React y la unidad Zoom Air harán que cada pisada sea imperceptible estés donde estés."
+  },
+  {
+    "id": "NI_CK6649-102-1",
+    "imagen": "/img/NI_CK6649-102-1.jpg",
+    "nombre": "Nike Air Force 1 Pixel",
+    "precio": 17999,
+    "genero": "mujer",
+    "origen": "importado",
+    "marca": "Nike",
+    "talles": [
+      {
+        "numero": 34,
+        "stock": true
+      },
+      {
+        "numero": 35,
+        "stock": true
+      },
+      {
+        "numero": 36,
+        "stock": true
+      },
+      {
+        "numero": 37,
+        "stock": true
+      },
+      {
+        "numero": 38,
+        "stock": false
+      },
+      {
+        "numero": 39,
+        "stock": false
+      }
+    ],
+    "destacado": false,
+    "relevancia": 14,
+    "descuento": 2000,
+    "descripcion": "Recorré las calles de la ciudad y a cualquier hora con las Zapatillas Nike Air Force 1 Pixel. Confeccionadas en cuero, cuentan con un ojal flotante y la pieza del talón que añaden un aspecto fresco. Su clásica entresuela es exagerada y tiene grandes lengüetas pixeladas que crean una postura elevada. Estilo, comodidad y amortiguación en un solo calzado."
+  },
+  {
+    "id": "NI_CJ1641-101-1",
+    "imagen": "/img/NI_CJ1641-101-1.jpg",
+    "nombre": "Nike Air Force 1 Shadow",
+    "precio": 19499,
+    "genero": "mujer",
+    "origen": "importado",
+    "marca": "Nike",
+    "talles": [
+      {
+        "numero": 34,
+        "stock": true
+      },
+      {
+        "numero": 35,
+        "stock": true
+      },
+      {
+        "numero": 36,
+        "stock": true
+      },
+      {
+        "numero": 37,
+        "stock": true
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": true
+      }
+    ],
+    "destacado": false,
+    "relevancia": 15,
+    "descuento": 0,
+    "descripcion": ""
+  },
+  {
+    "id": "NI_CJ1641-121-1",
+    "imagen": "/img/NI_CJ1641-121-1.jpg",
+    "nombre": "Nike Air Force 1 Shadow",
+    "precio": 19499,
+    "genero": "mujer",
+    "origen": "importado",
+    "marca": "Nike",
+    "talles": [
+      {
+        "numero": 34,
+        "stock": true
+      },
+      {
+        "numero": 35,
+        "stock": true
+      },
+      {
+        "numero": 36,
+        "stock": true
+      },
+      {
+        "numero": 37,
+        "stock": true
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": true
+      }
+    ],
+    "destacado": false,
+    "relevancia": 2,
+    "descuento": 0,
+    "descripcion": "Hechas para personas alegres que se atreven a todo y que no pasan desapercibidos en cualquier lugar, las Zapatillas Nike Air Force 1 Shadow inspiradas en el clásico modelo AF1, con capas de cuero sintético, y doble marquilla, te ofrecen un look urbano y moderno lleno de texturas y ritmo. Su entresuela exagerada y suela ranurada te ofrecen ligereza y amortiguación a donde vayas con el estilo característico de la marca."
+  },
+  {
+    "id": "NI_CK7648-002-1",
+    "imagen": "/img/NI_CK7648-002-1.jpg",
+    "nombre": "Nike Air Force 1 07",
+    "precio": 15999,
+    "genero": "hombre",
+    "origen": "importado",
+    "marca": "Nike",
+    "talles": [
+      {
+        "numero": 37,
+        "stock": true
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": false
+      },
+      {
+        "numero": 40,
+        "stock": true
+      },
+      {
+        "numero": 41,
+        "stock": true
+      },
+      {
+        "numero": 42,
+        "stock": false
+      }
+    ],
+    "destacado": false,
+    "relevancia": 49,
+    "descuento": 0,
+    "descripcion": "Las zapatillas Nike Air Force 1 07 están diseñadas e inspiradas en el icónico modelo AF1, su capellada en cuero sintético te da un estilo retro y único de la marca. Su entresuela de espuma te proporciona pisadas más amortiguadas y estables, fáciles de combinar con cualquier tipo de prendas para que luzcas siempre a la moda."
+  },
+  {
+    "id": "NI_CD0490-103-1",
+    "imagen": "/img/NI_CD0490-103-1.jpg",
+    "nombre": "Nike Air Max 90",
+    "precio": 16999,
+    "genero": "mujer",
+    "origen": "importado",
+    "marca": "Nike",
+    "talles": [
+      {
+        "numero": 34,
+        "stock": false
+      },
+      {
+        "numero": 35,
+        "stock": true
+      },
+      {
+        "numero": 36,
+        "stock": true
+      },
+      {
+        "numero": 37,
+        "stock": true
+      },
+      {
+        "numero": 38,
+        "stock": false
+      },
+      {
+        "numero": 39,
+        "stock": true
+      }
+    ],
+    "destacado": false,
+    "relevancia": 9,
+    "descuento": 0,
+    "descripcion": "Para tus días de running son perfectas las Zapatillas Nike Air Max 90 por su diseño inspiradas en el estilo de los 90´s te harán ver clásica y relajada, su cámara de aire visible te da un estilo moderno, mientras amortigua tus pisadas te da estabilidad y firmeza a la hora de correr."
+  },
+  {
+    "id": "NI_CD4366-100-1",
+    "imagen": "/img/NI_CD4366-100-1.jpg",
+    "nombre": "Nike Air Force 1 React",
+    "precio": 20999,
+    "genero": "hombre",
+    "origen": "importado",
+    "marca": "Nike",
+    "talles": [
+      {
+        "numero": 37,
+        "stock": true
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": true
+      },
+      {
+        "numero": 40,
+        "stock": true
+      },
+      {
+        "numero": 41,
+        "stock": false
+      },
+      {
+        "numero": 42,
+        "stock": false
+      }
+    ],
+    "destacado": false,
+    "relevancia": 47,
+    "descuento": 0,
+    "descripcion": "Las zapatillas Nike Air Force 1 React están confeccionadas en su exterior con cuero y malla para una mayor durabilidad y resistencia. Los orificios que contiene proporcionan una óptima frescura y su ajuste con sistema de cordones te brindan el control a tu medida. La suela de goma con espuma Nike React y la unidad Zoom Air harán que cada pisada sea imperceptible estés donde estés."
+  },
+  {
+    "id": "NI_CT1264-101-1",
+    "imagen": "/img/NI_CT1264-101-1.jpg",
+    "nombre": "Nike Air Max 270 React",
+    "precio": 24999,
+    "genero": "hombre",
+    "origen": "importado",
+    "marca": "Nike",
+    "talles": [
+      {
+        "numero": 37,
+        "stock": true
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": true
+      },
+      {
+        "numero": 40,
+        "stock": false
+      },
+      {
+        "numero": 41,
+        "stock": true
+      },
+      {
+        "numero": 42,
+        "stock": true
+      }
+    ],
+    "destacado": false,
+    "relevancia": 39,
+    "descuento": 0,
+    "descripcion": "Las Zapatillas Nike Air Max 270 React ofrecen un estilo que muestra innovación en su estilo y tecnologías. Confeccionadas en tela tejida y superposiciones sintéticas que proporcionan buen ajuste, tienen una Unidad Air Max que asegura la mejor comodidad. Con cuello acolchado, talón envolvente y suela de caucho con patrones en relieve que proporciona tracción duradera."
+  },
+  {
+    "id": "NI_CJ1641-100-1",
+    "imagen": "/img/NI_CJ1641-100-1.jpg",
+    "nombre": "Nike Air Force 1 Shadow",
+    "precio": 19499,
+    "genero": "mujer",
+    "origen": "importado",
+    "marca": "Nike",
+    "talles": [
+      {
+        "numero": 34,
+        "stock": true
+      },
+      {
+        "numero": 35,
+        "stock": true
+      },
+      {
+        "numero": 36,
+        "stock": true
+      },
+      {
+        "numero": 37,
+        "stock": true
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": true
+      }
+    ],
+    "destacado": false,
+    "relevancia": 1,
+    "descuento": 0,
+    "descripcion": "Hechas para personas alegres que se atreven a todo y que no pasan desapercibidos en cualquier lugar, las Zapatillas Nike Air Force 1 Shadow inspiradas en el clásico modelo AF1, con capas de cuero sintético, y doble marquilla, te ofrecen un look urbano y moderno lleno de texturas y ritmo. Su entresuela exagerada y suela ranurada te ofrecen ligereza y amortiguación a donde vayas con el estilo característico de la marca."
+  },
+  {
+    "id": "NI_CJ1281-001-1",
+    "imagen": "/img/NI_CJ1281-001-1.jpg",
+    "nombre": "Nike Air Force 1 Type-1",
+    "precio": 23999,
+    "genero": "hombre",
+    "origen": "importado",
+    "marca": "Nike",
+    "talles": [
+      {
+        "numero": 37,
+        "stock": true
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": true
+      },
+      {
+        "numero": 40,
+        "stock": true
+      },
+      {
+        "numero": 41,
+        "stock": true
+      },
+      {
+        "numero": 42,
+        "stock": true
+      }
+    ],
+    "destacado": false,
+    "relevancia": 2,
+    "descuento": 0,
+    "descripcion": "Las Zapatillas Nike Air Force 1 Type-1 son el must que completan un outfit perfecto. Cuentan con un excelente y original diseño, cordones Flywire que permiten un ajuste 360 alrededor del pie y toda la amortiguación de Nike Air. Además, tienen entresuela de espuma y suela de goma."
+  },
+  {
+    "id": "NI_CT1643-100-1",
+    "imagen": "/img/NI_CT1643-100-1.jpg",
+    "nombre": "Nike Air Max 1 Recycled",
+    "precio": 24999,
+    "genero": "hombre",
+    "origen": "importado",
+    "marca": "Nike",
+    "talles": [
+      {
+        "numero": 37,
+        "stock": true
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": true
+      },
+      {
+        "numero": 40,
+        "stock": true
+      },
+      {
+        "numero": 41,
+        "stock": true
+      },
+      {
+        "numero": 42,
+        "stock": false
+      }
+    ],
+    "destacado": true,
+    "relevancia": 6,
+    "descuento": 0,
+    "descripcion": "Las zapatillas Nike Air Max 1 Recycled White mantienen su fidelidad al modelo génesis que marcó un antes y un después en la historia, pero confeccionadas con materiales reciclados pensando en el futuro de nuestro medio ambiente. La suela de goma tiene un patrón grabado en el exterior, mientras que la tecnología Max Air te brinda pisadas suaves junto a una gran tracción en la superficie."
+  },
+  {
+    "id": "PU_370282-04-1",
+    "imagen": "/img/PU_370282-04-1.jpg",
+    "nombre": "Puma Cilia Lux",
+    "precio": 9699,
+    "genero": "mujer",
+    "origen": "importado",
+    "marca": "Puma",
+    "talles": [
+      {
+        "numero": 34,
+        "stock": true
+      },
+      {
+        "numero": 35,
+        "stock": true
+      },
+      {
+        "numero": 36,
+        "stock": true
+      },
+      {
+        "numero": 37,
+        "stock": true
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": true
+      }
+    ],
+    "destacado": false,
+    "relevancia": 43,
+    "descuento": 0,
+    "descripcion": "Las zapatillas Puma Cilia Lux son pura amortiguación. Su plantilla SoftFoam+ proporciona una amortiguación superior y un confort óptimo para cada paso. Su nueva silueta gruesa junto con su parte superior de cuero de primera calidad aparecen como las novedades de la marca. La entresuela de apoyo IMEVA proporciona absorción de impacto para un paso cómodo, mientras que su suela de caucho te brinda más durabilidad y agarre. Entrenadas para entrenarte."
+  },
+  {
+    "id": "PU_380639-02-1",
+    "imagen": "/img/PU_380639-02-1.jpg",
+    "nombre": "Puma Future Rider Double",
+    "precio": 13099,
+    "genero": "hombre",
+    "origen": "importado",
+    "marca": "Puma",
+    "talles": [
+      {
+        "numero": 37,
+        "stock": true
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": true
+      },
+      {
+        "numero": 40,
+        "stock": false
+      },
+      {
+        "numero": 41,
+        "stock": false
+      },
+      {
+        "numero": 42,
+        "stock": true
+      }
+    ],
+    "destacado": false,
+    "relevancia": 46,
+    "descuento": 2000,
+    "descripcion": "Las zapatillas Puma Future Rider Double se inspiran en un modelo conocido internacionalmente por la marca e el pasado con un refresh de materiales y colores para que recorras la ciudad. Confeccionadas en su parte superior con nylon y superposiciones de gamuza para mayor sofisticación, posee ajuste con sistema de cordones y suela exterior de goma fina PUMA Federbein que absorbe tu pisada para una máxima amortiguación."
+  },
+  {
+    "id": "PU_381118-05-1",
+    "imagen": "/img/PU_381118-05-1.jpg",
+    "nombre": "Puma Mirage Tech",
+    "precio": 24999,
+    "genero": "hombre",
+    "origen": "importado",
+    "marca": "Puma",
+    "talles": [
+      {
+        "numero": 37,
+        "stock": true
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": false
+      },
+      {
+        "numero": 40,
+        "stock": true
+      },
+      {
+        "numero": 41,
+        "stock": true
+      },
+      {
+        "numero": 42,
+        "stock": true
+      }
+    ],
+    "destacado": false,
+    "relevancia": 3,
+    "descuento": 2000,
+    "descripcion": "Las zapatillas Puma Mirage Tech están confeccionadas en su exterior con una construcción de mallas y materiales sintéticos para una mayor comodidad, frescura y durabilidad. La suela de goma y espuma con EVA ofrecen pisadas extra suaves y tracción sobre cualquier superficie. Hechas para darle un toque de modernidad a todos tus días."
+  },
+  {
+    "id": "PU_375641-05-1",
+    "imagen": "/img/PU_375641-05-1.jpg",
+    "nombre": "Puma RS-Fast Mix",
+    "precio": 14499,
+    "genero": "mujer",
+    "origen": "importado",
+    "marca": "Puma",
+    "talles": [
+      {
+        "numero": 34,
+        "stock": true
+      },
+      {
+        "numero": 35,
+        "stock": true
+      },
+      {
+        "numero": 36,
+        "stock": true
+      },
+      {
+        "numero": 37,
+        "stock": true
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": false
+      }
+    ],
+    "destacado": false,
+    "relevancia": 54,
+    "descuento": 0,
+    "descripcion": "Las zapatillas Puma RS-Fast Mix están confeccionadas en su exterior con malla y tela con superposiciones sintéticas y de gamuza. Su influencia en el diseño nos remonta a principios de la década del 2000, mientras que la tecnología Running System ofrece una mayor amortiguación a tu pisada. La suela de goma te proporciona más agarre sobre la superficie, mientras que el ajuste con sistema de cordones dará un ajuste personalizado."
+  },
+  {
+    "id": "PU_381517-04-1",
+    "imagen": "/img/PU_381517-04-1.jpg",
+    "nombre": "Puma Wild Rider Rollin'",
+    "precio": 14299,
+    "genero": "hombre",
+    "origen": "importado",
+    "marca": "Puma",
+    "talles": [
+      {
+        "numero": 37,
+        "stock": true
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": true
+      },
+      {
+        "numero": 40,
+        "stock": true
+      },
+      {
+        "numero": 41,
+        "stock": false
+      },
+      {
+        "numero": 42,
+        "stock": true
+      }
+    ],
+    "destacado": true,
+    "relevancia": 8,
+    "descuento": 0,
+    "descripcion": "Para vos que buscás un estilo urbano y colorido a la hora de correr, las Zapatillas Puma Wild Rider Rollin' son perfectas por su silueta dinámica con capas textiles que te de dan transpirabilidad y ligereza incluso en los momentos mas intensos. Su suela ancha te brinda mayor amortiguación y pronación en cada pisada, dándote mejor capacidad de respuesta manteniendo la velocidad necesaria para lograr tu objetivo. Inspiradas en el movimiento y caos de la ciudad, dejate llevar por tu deseo ganador y corre más rápido y hacia adelante."
+  },
+  {
+    "id": "PU_375641-04-1",
+    "imagen": "/img/PU_375641-04-1.jpg",
+    "nombre": "Puma RS-Fast Mix",
+    "precio": 14499,
+    "genero": "mujer",
+    "origen": "importado",
+    "marca": "Puma",
+    "talles": [
+      {
+        "numero": 34,
+        "stock": true
+      },
+      {
+        "numero": 35,
+        "stock": true
+      },
+      {
+        "numero": 36,
+        "stock": false
+      },
+      {
+        "numero": 37,
+        "stock":false
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": true
+      }
+    ],
+    "destacado": false,
+    "relevancia": 30,
+    "descuento": 0,
+    "descripcion": "Las zapatillas Puma RS-Fast Mix están confeccionadas en su exterior con malla y tela con superposiciones sintéticas y de gamuza. Su influencia en el diseño nos remonta a principios de la década del 2000, mientras que la tecnología Running System ofrece una mayor amortiguación a tu pisada. La suela de goma te proporciona más agarre sobre la superficie, mientras que el ajuste con sistema de cordones dará un ajuste personalizado."
+  },
+  {
+    "id": "PU_374667-02-1",
+    "imagen": "/img/PU_374667-02-1.jpg",
+    "nombre": "Puma RS-X3 Layers",
+    "precio": 13399,
+    "genero": "mujer",
+    "origen": "importado",
+    "marca": "Puma",
+    "talles": [
+      {
+        "numero": 34,
+        "stock": true
+      },
+      {
+        "numero": 35,
+        "stock": true
+      },
+      {
+        "numero": 36,
+        "stock": true
+      },
+      {
+        "numero": 37,
+        "stock": true
+      },
+      {
+        "numero": 38,
+        "stock": false
+      },
+      {
+        "numero": 39,
+        "stock": false
+      }
+    ],
+    "destacado": false,
+    "relevancia": 19,
+    "descuento": 3000,
+    "descripcion": "Las zapatillas Puma RS-X3 Layers se nutren de los archivos de los años 80 pero con una X que le dan un estilo más extremo. Mezclas de materiales, siluetas elegantes y estilo futurista con una combinación excéntrica de colores y una rica variación de texturas las vuelven un capricho y una excepción."
+  },
+  {
+    "id": "PU_372715-09-1",
+    "imagen": "/img/PU_372715-09-1.jpg",
+    "nombre": "Puma RS-X Bold",
+    "precio": 13499,
+    "genero": "hombre",
+    "origen": "importado",
+    "marca": "Puma",
+    "talles": [
+      {
+        "numero": 37,
+        "stock": false
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": true
+      },
+      {
+        "numero": 40,
+        "stock": true
+      },
+      {
+        "numero": 41,
+        "stock": true
+      },
+      {
+        "numero": 42,
+        "stock": false
+      }
+    ],
+    "destacado": false,
+    "relevancia": 40,
+    "descuento": 0,
+    "descripcion": "Las zapatillas Puma RS-X Bold Super mantienen un diseño colorido y robusto con elementos de las zapatillas RS para lucir un estilo increíble vayas a donde vayas. Confeccionado en su exterior con una malla que combina gamuza y material sintético, además de ser un calzado cómodo gracias a la tecnología de carrera RS que ofrece amortiguación desde la parte delantera del pie hasta el talón para un andar suave y ligero."
+  },
+  {
+    "id": "PU_372975-04-1",
+    "imagen": "/img/PU_372975-04-1.jpg",
+    "nombre": "Puma RS-2K Messaging",
+    "precio": 14499,
+    "genero": "mujer",
+    "origen": "importado",
+    "marca": "Puma",
+    "talles": [
+      {
+        "numero": 34,
+        "stock": true
+      },
+      {
+        "numero": 35,
+        "stock": false
+      },
+      {
+        "numero": 36,
+        "stock": false
+      },
+      {
+        "numero": 37,
+        "stock": true
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": true
+      }
+    ],
+    "destacado": false,
+    "relevancia": 32,
+    "descuento": 0,
+    "descripcion": "Las zapatillas Puma RS-2K Messaging se inspiran en la era digital y la transformación en las comunicaciones. Este modelo rinde homenaje a la tecnología y las conexiones humanas incorporando líneas suaves y curvas que se traducen en un concepto artístico. Incluyen la tecnología Running System (RS) para correr que ofrece amortiguación desde la puntera hasta el talón. El modelo trae ojales de lycra brillantes en relieve y cierre completo con cordones."
+  },
+  {
+    "id": "PU_375403-04-1",
+    "imagen": "/img/PU_375403-04-1.jpg",
+    "nombre": "Puma RS-Fast",
+    "precio": 12999,
+    "genero": "mujer",
+    "origen": "importado",
+    "marca": "Puma",
+    "talles": [
+      {
+        "numero": 34,
+        "stock": true
+      },
+      {
+        "numero": 35,
+        "stock": true
+      },
+      {
+        "numero": 36,
+        "stock": true
+      },
+      {
+        "numero": 37,
+        "stock": false
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": false
+      }
+    ],
+    "destacado": false,
+    "relevancia": 18,
+    "descuento": 2000,
+    "descripcion": "Las zapatillas Puma RS-Fast vienen más rápidas y más livianas que cualquier otro calzado. La marca alemana reinventa el estilo urbano con un diseño progresivo que combina señales de principios de la década de 2000 y vibraciones futuristas. Su paleta de colores te da el estilo innovador que necesitás para todo el día. Incluyen la tecnología Running System (RS) que ofrece amortiguación desde la puntera hasta el talón."
+  },
+  {
+    "id": "NI_CI0919-105-1",
+    "imagen": "/img/NI_CI0919-105-1.jpg",
+    "nombre": "Nike Air Force 1 Shadow",
+    "precio": 19499,
+    "genero": "mujer",
+    "origen": "importado",
+    "marca": "Nike",
+    "talles": [
+      {
+        "numero": 34,
+        "stock": true
+      },
+      {
+        "numero": 35,
+        "stock": true
+      },
+      {
+        "numero": 36,
+        "stock": true
+      },
+      {
+        "numero": 37,
+        "stock": true
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": true
+      }
+    ],
+    "destacado": true,
+    "relevancia": 4,
+    "descuento": 0,
+    "descripcion": "Las Zapatillas Nike Air Force 1 Shadow rinde homenaje a las mujeres que están dando el ejemplo a la siguiente generación, al ser una combinación de fuerza, coraje, estilo y responsabilidad. Confeccionadas en cuero, tienen una suela de goma con tecnología Air Max, aportando amortiguación, estabilidad y confianza."
+  },
+  {
+    "id": "PU_381517-05-1",
+    "imagen": "/img/PU_381517-05-1.jpg",
+    "nombre": "Puma Wild Rider Rollin'",
+    "precio": 14299,
+    "genero": "mujer",
+    "origen": "importado",
+    "marca": "Puma",
+    "talles": [
+      {
+        "numero": 34,
+        "stock": true
+      },
+      {
+        "numero": 35,
+        "stock": false
+      },
+      {
+        "numero": 36,
+        "stock": false
+      },
+      {
+        "numero": 37,
+        "stock": true
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": true
+      }
+    ],
+    "destacado": false,
+    "relevancia": 17,
+    "descuento": 0,
+    "descripcion": "Para vos que buscás un estilo urbano y colorido a la hora de correr, las Zapatillas Puma Wild Rider Rollin' son perfectas por su silueta dinámica con capas textiles que te de dan transpirabilidad y ligereza incluso en los momentos mas intensos. Su suela ancha te brinda mayor amortiguación y pronación en cada pisada, dándote mejor capacidad de respuesta manteniendo la velocidad necesaria para lograr tu objetivo. Inspiradas en el movimiento y caos de la ciudad, dejate llevar por tu deseo ganador y corre más rápido y hacia adelante."
+  },
+  {
+    "id": "PU_381517-02-1",
+    "imagen": "/img/PU_381517-02-1.jpg",
+    "nombre": "Puma Wild Rider Rollin'",
+    "precio": 14299,
+    "genero": "hombre",
+    "origen": "importado",
+    "marca": "Puma",
+    "talles": [
+      {
+        "numero": 37,
+        "stock": false
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": true
+      },
+      {
+        "numero": 40,
+        "stock": false
+      },
+      {
+        "numero": 41,
+        "stock": true
+      },
+      {
+        "numero": 42,
+        "stock": true
+      }
+    ],
+    "destacado": false,
+    "relevancia": 38,
+    "descuento": 0,
+    "descripcion": "Para vos que buscás un estilo urbano y colorido a la hora de correr, las Zapatillas Puma Wild Rider Rollin' son perfectas por su silueta dinámica con capas textiles que te de dan transpirabilidad y ligereza incluso en los momentos mas intensos. Su suela ancha te brinda mayor amortiguación y pronación en cada pisada, dándote mejor capacidad de respuesta manteniendo la velocidad necesaria para lograr tu objetivo. Inspiradas en el movimiento y caos de la ciudad, dejate llevar por tu deseo ganador y corre más rápido y hacia adelante."
+  },
+  {
+    "id": "AD_FY4530-1",
+    "imagen": "/img/AD_FY4530-1.jpg",
+    "nombre": "adidas Forum Bold",
+    "precio": 13999,
+    "genero": "mujer",
+    "origen": "importado",
+    "marca": "adidas",
+    "talles": [
+      {
+        "numero": 34,
+        "stock": false
+      },
+      {
+        "numero": 35,
+        "stock": true
+      },
+      {
+        "numero": 36,
+        "stock": true
+      },
+      {
+        "numero": 37,
+        "stock": true
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": false
+      }
+    ],
+    "destacado": false,
+    "relevancia": 10,
+    "descuento": 0,
+    "descripcion": ""
+  },
+  {
+    "id": "AD_FY7756-1",
+    "imagen": "/img/AD_FY7756-1.jpg",
+    "nombre": "adidas Forum Low",
+    "precio": 11999,
+    "genero": "hombre",
+    "origen": "importado",
+    "marca": "adidas",
+    "talles": [
+      {
+        "numero": 37,
+        "stock": true
+      },
+      {
+        "numero": 38,
+        "stock": true
+      },
+      {
+        "numero": 39,
+        "stock": true
+      },
+      {
+        "numero": 40,
+        "stock": true
+      },
+      {
+        "numero": 41,
+        "stock": true
+      },
+      {
+        "numero": 42,
+        "stock": true
+      }
+    ],
+    "destacado": false,
+    "relevancia": 11,
+    "descuento": 0,
+    "descripcion": ""
+  }
+  
+]

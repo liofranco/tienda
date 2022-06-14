@@ -1,0 +1,30 @@
+.container{
+    width: 97%;
+    max-width: 1200px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: 30px;
+    color: #333;
+    overflow-x: scroll;
+}
+
+.section_title,
+.cards_container{
+    display: flex;
+    align-items: center;
+}
+
+.section_title h3{
+    margin-right: 20px;
+}
+
+.section_title a{
+    color: #989898;
+    font-size: 15px;
+}
+
+.cards_container{
+    justify-content: center;
+    margin-top: 15px;
+}

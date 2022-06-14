@@ -1,0 +1,159 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 1200px;
+    width: 100%;
+    margin-top: 80px;
+}
+
+.navigation{
+    display: flex;
+    align-items: center;
+    align-self: flex-start;
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+
+.navigation a{
+    color: #989898
+}
+
+.navigation span{
+    margin: 0 10px;
+}
+
+.product{
+    background-color: #fff;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 30px;
+    border-radius: 4px;
+}
+
+.product_container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #fff;
+    width: 90%;
+    max-width: 1200px;
+}
+
+.product_img{
+    width: 500px;
+    height: 500px;
+}
+
+.product_info{
+    display: flex;
+    flex-direction: column;
+    color: #333;
+    width: 50%;
+    max-width: 500px;
+}
+
+.product_info h2{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.precio{
+    color: #333;
+    font-size: 25px;
+    font-weight: normal;
+}
+
+.oferta{
+    color: #6747ce;
+    font-size: 25px;
+}
+
+.precio_descuento{
+    color: #989898;
+    font-size: 18px;
+    text-decoration: line-through;
+    margin-right: 5px;
+}
+
+.talles_container{
+    margin: 20px 0;
+}
+
+.talles{
+    display: flex;
+    align-items: center;
+    margin-top: 12px;
+}
+
+.talles input{
+    display: none;
+}
+
+.label_talles{
+    padding: 10px;
+    margin: 0 7px;
+    background-color: #eee;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.talles input:checked + .label_talles{
+    background-color: #333;
+    color: #fff;
+}
+
+.sin_stock{
+    opacity: .3;
+}
+
+.descripcion{
+    width: 90%;
+    max-width: 1200px;
+    color: #333;
+    padding: 15px 0;
+    border-top: 1px solid #eee;
+}
+
+.descripcion p{
+    font-size: 15px;
+    margin: 5px 0;
+}
+
+@media (max-width: 860px){
+    .product_img{
+        width: 320px;
+        height: 320px;
+    }
+    .product_info h2{
+        font-size: 25px;
+    }
+    .label_talles{
+        padding: 7px;
+        margin: 0 5px;
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 640px){
+    .product_container{
+        flex-direction: column;
+        margin-bottom: 20px;
+    }
+    .product_info{
+        width: 100%;
+    }
+    .product_info button{
+        width: 100%;
+    }
+}
+
+@media (max-width: 360px){
+    .product_img{
+        width: 240px;
+        height: 240px;
+    }
+}
