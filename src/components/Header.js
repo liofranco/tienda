@@ -24,6 +24,7 @@ const Header = () => {
         e.preventDefault()
         if(busqueda.length > 0){
             navigate(`/search?q=${busqueda}`)
+            e.target.firstChild.blur()
             setBusqueda('')
         }
     }
