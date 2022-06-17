@@ -58,7 +58,7 @@ const Header = () => {
                     <Link className={style.cart} to="/carrito">
                         <img src="https://icongr.am/material/cart-outline.svg?size=25&color=333333" alt="cart-icon"/>
                         {carrito.length > 0 ? (
-                            <p className={style.cart_number}>{carrito.length}</p>
+                         <p className={style.cart_number}>{carrito.length}</p>
                         ) : null}
                     </Link>
                 </div>

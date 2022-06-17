@@ -190,3 +190,7 @@ a{
 .swiper-pagination-bullet-active{
     background: #6747ce !important;
 }
+
+.rec-arrow{
+    display: none
+}

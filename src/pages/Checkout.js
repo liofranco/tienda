@@ -16,7 +16,7 @@ const Checkout = () => {
     return (
         <main className='main'>
             <section className={style.container}>
-                <img src='https://icongr.am/material/check-circle.svg?size=100&color=00a650' />
+                <img src='https://icongr.am/material/check-circle.svg?size=100&color=00a650' alt=''/>
                 <p>Pago confirmado</p>
                 <h2>Gracias por tu compra</h2>
                 <Link className='btn-black' to='/'>Volver a inicio</Link>

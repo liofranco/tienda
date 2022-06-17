@@ -9,7 +9,7 @@ const Modal = ({setModal}) => {
     return (
         <div onClick={(e)=> handleModal(e)} className={style.modal_container}>
             <div className={style.modal}>
-                <img src='https://icongr.am/material/check-circle.svg?size=100&color=00a650' />
+                <img src='https://icongr.am/material/check-circle.svg?size=100&color=00a650' alt='' />
                 <p>Producto agregado al carrito</p>
                 <div className={style.modal_buttons}>
                     <Link className='btn-black' to='/carrito'>Ver carrito</Link>

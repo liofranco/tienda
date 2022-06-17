@@ -46,11 +46,6 @@
     justify-content: center;
 }
 
-.container:hover img{
-    width:270px;
-    height: 270px;
-}
-
 .envio_gratis{
     background-color: #e6f7ee;
     color: #00a650;

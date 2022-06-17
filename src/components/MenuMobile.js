@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useCallback, useEffect, useState } from 'react';
 import style from '../styles/header.module.css';
 import { Link, useLocation } from 'react-router-dom';
 
@@ -7,10 +7,14 @@ const MenuMobile = ({active, setMenuMobile}) => {
     const { pathname } = useLocation();
     const [showMarcas, setShowMarcas] = useState(false)
 
-    useEffect(()=>{
+    const setMenuFalse = useCallback(()=>{
         setMenuMobile(false)
+    }, [setMenuMobile])
+
+    useEffect(()=>{
+        setMenuFalse()
         setShowMarcas(false)
-    }, [pathname])
+    }, [pathname, setMenuFalse])
 
     return (
         <aside className={`${active ? style.active : ''} ${style.menu_mobile_container}` }>
